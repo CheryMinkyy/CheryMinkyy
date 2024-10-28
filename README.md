@@ -19,5 +19,14 @@ Welcome to my GitHub profile! I'm a passionate student and aspiring entrepreneur
 I'm also an active member of my school's entrepreneurship club and have a nationally published paper in sociology!
 
 ---
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sudeerzurumlu&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=CheryMinkyy&theme=dark&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 > “Opportunities don't happen, you create them.” – Chris Grosser
