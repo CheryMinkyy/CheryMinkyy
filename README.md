@@ -29,4 +29,7 @@ I'm also an active member of my school's entrepreneurship club and have a nation
     </td>
   </tr>
 </table>
-> “Opportunities don't happen, you create them.” – Chris Grosser
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+
+<!--[![](https://visitcount.itsvg.in/api?id=CheryMinkyy&icon=2&color=0)](https://visitcount.itsvg.in)--> 
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=CheryMinkyy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
