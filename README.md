@@ -29,14 +29,4 @@ I'm also an active member of my school's entrepreneurship club and have a nation
     </td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=CheryMinkyy&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CheryMinkyy&theme=dark&hide_border=false&layout=compact" alt="Most Used Languages">
-    </td>
-  </tr>
-</table>
 > “Opportunities don't happen, you create them.” – Chris Grosser
